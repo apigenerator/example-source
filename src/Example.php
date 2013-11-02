@@ -71,7 +71,7 @@ class Example
 	}
 	
 	/**
-	 * This is ai incomplete method!
+	 * This is a incomplete method!
 	 *
 	 * @incomplete
 	 */
