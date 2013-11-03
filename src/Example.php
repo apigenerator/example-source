@@ -45,7 +45,7 @@ class Example
 	 *
 	 * @param string $return
 	 */
-	protected function zap(&$return)
+	private function zap(&$return)
 	{
 		$return = 'Hello world!';
 	}
